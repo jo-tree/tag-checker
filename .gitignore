@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Jest coverage reports
+coverage/
+
+# IDE settings (optional)
+.vscode/
+.idea/
